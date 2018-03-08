@@ -10,14 +10,25 @@ public class RESTAPITest {
 		System.out.println("postJira");
 	}
 	@Test
+	public void postJira1()
+	{
+		System.out.println("postJira");
+	}
+	@Test
+	public void postJira2()
+	{
+		System.out.println("postJira");
+	}
+	@Test
 	public void deleteTwitters()
 	{
 		System.out.println("deleteTwitter");	
 	}
-}
+
 	@Test
 	public void deleteTwitter()
 	{
-		
+		//One two
+		//three
 	}
 }
