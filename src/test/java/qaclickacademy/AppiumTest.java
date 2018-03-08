@@ -3,15 +3,14 @@ package qaclickacademy;
 import org.testng.annotations.Test;
 
 public class AppiumTest {
-	@Test
-	public void NativeAPpAndroid()
+	if( 1==3)
 	{
-		System.out.println("NativeAPpAndroid");
+	System.out.println("postJira");
 	}
-	
-	@Test
-	public void IOSApps()
-	{
-		System.out.println("IOSApps");	
 	}
+
+
+	System.out.println("postJira");
+	System.out.println("deleteTwitter");	
+	System.out.println("postJira");
 }
