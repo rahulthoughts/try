@@ -5,15 +5,14 @@ import org.testng.annotations.Test;
 public class RESTAPITest {
 
 	@Test
-	public void postJira()
+	public void postJira6()
 	{
 		System.out.println("postJira");
 	}
 	@Test
 	public void postJira1()
 	{
-		System.out.println("postJira");
-		System.out.println("postJira1");
+		System.out.println("hello");
 	}
 	@Test
 	public void postJira2()
