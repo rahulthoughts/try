@@ -19,6 +19,11 @@ public class RESTAPITest {
 	public void deleteTwitters()
 	{
 		System.out.println("deleteTwitter");	
+		if( 1==2)
+		{
+		System.out.println("postJira");
+		}
+		System.out.println("postJira");
 	}
 	@Test
 	public void postJira1()
