@@ -18,6 +18,10 @@ public class RESTAPITest {
 		{
 		System.out.println("postJira");
 		}
+	}@Test
+	public void BrowserAUtomation()
+	{
+		System.out.println("BrowserAUtomation");	
 	}
 	@Test
 	public void deleteTwitters()
@@ -38,12 +42,15 @@ public class RESTAPITest {
 	}
 		System.out.println("deleteTwitter");
 		System.out.println("deleteTwitter");	
+		{
 		if( 1==3)
 		{
 		System.out.println("postJira");
 		}
+		}
 		System.out.println("postJira");
 		System.out.println("deleteTwitter");	
+		System.out.println("postJira");
 		if( 1==3)
 		{
 		System.out.println("postJira");
