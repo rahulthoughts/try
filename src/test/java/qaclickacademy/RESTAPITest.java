@@ -9,11 +9,7 @@ public class RESTAPITest {
 	{
 		System.out.println("postJira");
 	}
-	@Test
-	public void postJira1()
-	{
-		System.out.println("hello");
-	}
+	
 	@Test
 	public void postJira2()
 	{
@@ -24,7 +20,11 @@ public class RESTAPITest {
 	{
 		System.out.println("deleteTwitter");	
 	}
-
+	@Test
+	public void postJira1()
+	{
+		System.out.println("deleteTwitter");
+	}
 	@Test
 	public void deleteTwitter()
 	{
