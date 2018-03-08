@@ -13,6 +13,7 @@ public class RESTAPITest {
 	public void postJira1()
 	{
 		System.out.println("postJira");
+		System.out.println("postJira1");
 	}
 	@Test
 	public void postJira2()
