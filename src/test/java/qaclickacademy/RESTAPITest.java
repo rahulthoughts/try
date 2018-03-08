@@ -19,7 +19,7 @@ public class RESTAPITest {
 	public void deleteTwitters()
 	{
 		System.out.println("deleteTwitter");	
-		if( 1==2)
+		if( 1==3)
 		{
 		System.out.println("postJira");
 		}
